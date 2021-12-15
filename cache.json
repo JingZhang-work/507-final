@@ -1,0 +1,585 @@
+[
+  {
+    "score": 0.6908915,
+    "show": {
+      "id": 43664,
+      "url": "https://www.tvmaze.com/shows/43664/dog-impossible",
+      "name": "Dog: Impossible",
+      "type": "Documentary",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2019-09-02",
+      "ended": null,
+      "officialSite": "https://www.nationalgeographic.com/tv/dog-impossible/",
+      "schedule": {
+        "time": "22:00",
+        "days": [
+          "Sunday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 40,
+      "network": {
+        "id": 83,
+        "name": "National Geographic WILD",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 367656,
+        "imdb": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/209/524662.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/209/524662.jpg"
+      },
+      "summary": "<p><b>Dog: Impossible</b> invites viewers on an inspiring, uplifting journey with dog behavior specialist Matt Beisner, who has dedicated his life to working with some of the most dangerous, most aggressive and most misunderstood dogs in the country. These are dogs everyone else has given up on - even other trainers. In many cases, they are in danger of being put down. But, while everyone else may think there is no hope for these dogs, Beisner is making a difference in the lives of dogs and their owners around the country.</p>",
+      "updated": 1638906146,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/43664"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2150155"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.6873717,
+    "show": {
+      "id": 7506,
+      "url": "https://www.tvmaze.com/shows/7506/good-dog",
+      "name": "Good Dog",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Comedy"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2011-03-06",
+      "ended": "2011-05-22",
+      "officialSite": null,
+      "schedule": {
+        "time": "20:00",
+        "days": [
+          "Sunday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 32,
+      "network": {
+        "id": 124,
+        "name": "HBO Canada",
+        "country": {
+          "name": "Canada",
+          "code": "CA",
+          "timezone": "America/Halifax"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": 29685,
+        "thetvdb": 235071,
+        "imdb": "tt1719831"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/27/69142.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/27/69142.jpg"
+      },
+      "summary": "<p>Award-winning writer and producer Ken Finkleman (The Newsroom) returns to television in <b>Good Dog</b>, his highly anticipated new comedy. Starring Finkleman and Lauren Lee Smith (CSI; The L Word), the sharply ironic series focuses on the life of George, a self-absorbed, neurotic TV producer. After hooking up with Claire, a gorgeous model half his age, George negotiates his new reality dating a younger woman by pitching a reality show about his high concept, highly coveted, seriously volatile life. But when network executives insist that Claire move into his house, George is forced to escalate the relationship and consequently, his fears of commitment. When the pitch and his life go sideways, he frets, vents and reevaluates by soliciting questionable advice from his best friend Doug (Jason Weinberg).</p>",
+      "updated": 1613061072,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/7506"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/423645"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.68004584,
+    "show": {
+      "id": 32074,
+      "url": "https://www.tvmaze.com/shows/32074/mad-dog",
+      "name": "Mad Dog",
+      "type": "Scripted",
+      "language": "Korean",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Mystery"
+      ],
+      "status": "Ended",
+      "runtime": 60,
+      "averageRuntime": 60,
+      "premiered": "2017-10-11",
+      "ended": "2017-11-30",
+      "officialSite": "http://www.kbs.co.kr/drama/maddog/",
+      "schedule": {
+        "time": "22:00",
+        "days": [
+          "Wednesday",
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 8
+      },
+      "weight": 74,
+      "network": {
+        "id": 128,
+        "name": "KBS2",
+        "country": {
+          "name": "Korea, Republic of",
+          "code": "KR",
+          "timezone": "Asia/Seoul"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 335330,
+        "imdb": "tt7396412"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/130/327345.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/130/327345.jpg"
+      },
+      "summary": "<p>This drama is about a detective-turned-insurance-investigator leads a team that investigates insurance fraud causes. Choi Kang Woo is a former detective, but he now works as a veteran insurance investigator. He leads a team that attempts to reveal insurance fraud cases.</p>",
+      "updated": 1512664732,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/32074"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1329560"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.66745603,
+    "show": {
+      "id": 3189,
+      "url": "https://www.tvmaze.com/shows/3189/downward-dog",
+      "name": "Downward Dog",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Comedy"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2017-05-17",
+      "ended": "2017-06-27",
+      "officialSite": "http://abc.go.com/shows/downward-dog",
+      "schedule": {
+        "time": "20:00",
+        "days": [
+          "Tuesday"
+        ]
+      },
+      "rating": {
+        "average": 5.3
+      },
+      "weight": 48,
+      "network": {
+        "id": 3,
+        "name": "ABC",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 311905,
+        "imdb": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/95/238150.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/95/238150.jpg"
+      },
+      "summary": "<p>Based on a web series, <b>Downward Dog</b> follows the day-to-day life of Nan, as told by her increasingly lonely and philosophical dog, Martin. Just one session at obedience school makes them realize that even at their worst, they may be the best thing for each other.</p>",
+      "updated": 1574470395,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/3189"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1177989"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.66432583,
+    "show": {
+      "id": 28465,
+      "url": "https://www.tvmaze.com/shows/28465/little-dog",
+      "name": "Little Dog",
+      "type": "Scripted",
+      "language": "English",
+      "genres": [
+        "Comedy"
+      ],
+      "status": "Ended",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2018-03-01",
+      "ended": "2019-03-07",
+      "officialSite": "http://www.cbc.ca/mediacentre/program/little-dog",
+      "schedule": {
+        "time": "21:30",
+        "days": [
+          "Thursday"
+        ]
+      },
+      "rating": {
+        "average": 6.4
+      },
+      "weight": 46,
+      "network": {
+        "id": 36,
+        "name": "CBC",
+        "country": {
+          "name": "Canada",
+          "code": "CA",
+          "timezone": "America/Halifax"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 338954,
+        "imdb": "tt6998202"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/146/366761.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/146/366761.jpg"
+      },
+      "summary": "<p>Tommy \"Little Dog\" Ross gets the chance to re-enter the boxing ring after walking away from the ring during a championship bout five years ago. Tommy decides to make a comeback, and many of the obstacles that he needs to hurdle are psychological in nature -- including his girlfriend being with his rival. His family members focus on their own issues, which may be in direct competition to everything that Tommy is trying to achieve.</p>",
+      "updated": 1618003925,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/28465"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1610176"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.66298145,
+    "show": {
+      "id": 44579,
+      "url": "https://www.tvmaze.com/shows/44579/top-dog",
+      "name": "Top Dog",
+      "type": "Scripted",
+      "language": "Swedish",
+      "genres": [
+        "Drama",
+        "Crime",
+        "Thriller"
+      ],
+      "status": "To Be Determined",
+      "runtime": 45,
+      "averageRuntime": 45,
+      "premiered": "2020-10-07",
+      "ended": null,
+      "officialSite": "https://www.cmore.se/serie/148290-top-dog",
+      "schedule": {
+        "time": "21:00",
+        "days": [
+          "Wednesday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 44,
+      "network": {
+        "id": 1367,
+        "name": "C More",
+        "country": {
+          "name": "Sweden",
+          "code": "SE",
+          "timezone": "Europe/Stockholm"
+        }
+      },
+      "webChannel": {
+        "id": 170,
+        "name": "C More",
+        "country": {
+          "name": "Sweden",
+          "code": "SE",
+          "timezone": "Europe/Stockholm"
+        }
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 377684,
+        "imdb": "tt11542694"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/276/691903.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/276/691903.jpg"
+      },
+      "summary": "<p><b>Top Dog</b> centres on the clash between ambitious business lawyer Emily Jansson and the ex-crook Teddy Maksumic. A mysterious disappearance brings together two completely different worlds, and an extremely ill-matched couple - lawyer Emily and the conditionally released Teddy. The two are at loggerheads. She wants up. He wants out. She wants to secure her future; he wants to leave his old life behind. The pair are forced to rethink when they end up in a tricky situation where the past catches up, where future dreams are shattered, and where nothing is what it seems.</p>",
+      "updated": 1606764898,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/44579"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1956412"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.66223025,
+    "show": {
+      "id": 50302,
+      "url": "https://www.tvmaze.com/shows/50302/haute-dog",
+      "name": "Haute Dog",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "To Be Determined",
+      "runtime": 28,
+      "averageRuntime": 28,
+      "premiered": "2020-09-24",
+      "ended": null,
+      "officialSite": "https://play.hbomax.com/page/urn:hbo:page:GX2TedgOIjh6fnAEAAAFJ:type:series",
+      "schedule": {
+        "time": "",
+        "days": []
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 42,
+      "network": null,
+      "webChannel": {
+        "id": 329,
+        "name": "HBO Max",
+        "country": null
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 388311,
+        "imdb": "tt13064206"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/295/738702.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/295/738702.jpg"
+      },
+      "summary": "<p><b>Haute Dog</b> is a head-to-tail dog grooming creative competition series showcasing canine breeds of all kinds.</p>",
+      "updated": 1612435607,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/50302"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2023283"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.66002953,
+    "show": {
+      "id": 7229,
+      "url": "https://www.tvmaze.com/shows/7229/lucky-dog",
+      "name": "Lucky Dog",
+      "type": "Reality",
+      "language": "English",
+      "genres": [],
+      "status": "Running",
+      "runtime": 30,
+      "averageRuntime": 30,
+      "premiered": "2013-09-28",
+      "ended": null,
+      "officialSite": "http://cbsdreamteam.com/lucky-dog/",
+      "schedule": {
+        "time": "09:00",
+        "days": [
+          "Saturday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 72,
+      "network": {
+        "id": 2,
+        "name": "CBS",
+        "country": {
+          "name": "United States",
+          "code": "US",
+          "timezone": "America/New_York"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": 37902,
+        "thetvdb": 274341,
+        "imdb": "tt3220976"
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/237/592621.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/237/592621.jpg"
+      },
+      "summary": "<p>On <b>Lucky Dog</b>, animal trainer Brandon McMillan's second home is the neighborhood animal shelter where he is determined to rescue hard-to-love, out-of control, untrained and unadoptable dogs. Then, back at Brandon's training facility known as the Lucky Dog Ranch, he embarks on the seemingly impossible task of turning the frightened pooches into perfect pets. In the end, a lucky family will adopt an even luckier dog, making each episode an adoption story that warms the heart.</p>",
+      "updated": 1632748604,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/7229"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/2180899"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.66002953,
+    "show": {
+      "id": 56912,
+      "url": "https://www.tvmaze.com/shows/56912/black-dog",
+      "name": "Black Dog",
+      "type": "Scripted",
+      "language": "Polish",
+      "genres": [
+        "Drama",
+        "Action"
+      ],
+      "status": "Running",
+      "runtime": null,
+      "averageRuntime": null,
+      "premiered": null,
+      "ended": null,
+      "officialSite": null,
+      "schedule": {
+        "time": "",
+        "days": []
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 15,
+      "network": null,
+      "webChannel": {
+        "id": 103,
+        "name": "Viaplay",
+        "country": null
+      },
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": null,
+        "imdb": null
+      },
+      "image": null,
+      "summary": "<p><b>Black Dog</b> is a six-part psychological action drama that follows veterans returning from conflicts in Afghanistan and Iraq, which were the Polish army's largest combat operations since World War 2. The soldiers now face another battlefield: confronting poverty and physical and mental scars, as well as corruption among their former commanders.</p>",
+      "updated": 1629280650,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/56912"
+        }
+      }
+    }
+  },
+  {
+    "score": 0.6486711,
+    "show": {
+      "id": 45113,
+      "url": "https://www.tvmaze.com/shows/45113/black-dog",
+      "name": "Black Dog",
+      "type": "Scripted",
+      "language": "Korean",
+      "genres": [
+        "Drama",
+        "Romance",
+        "Mystery"
+      ],
+      "status": "Ended",
+      "runtime": 90,
+      "averageRuntime": 90,
+      "premiered": "2019-12-16",
+      "ended": "2020-02-04",
+      "officialSite": "http://program.tving.com/tvn/blackdog/",
+      "schedule": {
+        "time": "21:30",
+        "days": [
+          "Monday",
+          "Tuesday"
+        ]
+      },
+      "rating": {
+        "average": null
+      },
+      "weight": 36,
+      "network": {
+        "id": 280,
+        "name": "tvN",
+        "country": {
+          "name": "Korea, Republic of",
+          "code": "KR",
+          "timezone": "Asia/Seoul"
+        }
+      },
+      "webChannel": null,
+      "dvdCountry": null,
+      "externals": {
+        "tvrage": null,
+        "thetvdb": 372807,
+        "imdb": null
+      },
+      "image": {
+        "medium": "https://static.tvmaze.com/uploads/images/medium_portrait/226/567052.jpg",
+        "original": "https://static.tvmaze.com/uploads/images/original_untouched/226/567052.jpg"
+      },
+      "summary": "<p><b>Black Dog</b> is going to draw a plain and unfamiliar school story. It will tell the stories of teenagers and the things that happen in school. Black Dog is about a story of a young woman who gets a short-term teaching position and does her best to fight for students' dreams in school. The drama will take a deep look into the lives of teachers and provide commentary on society through the microcosm of a school setting.</p>",
+      "updated": 1584916341,
+      "_links": {
+        "self": {
+          "href": "https://api.tvmaze.com/shows/45113"
+        },
+        "previousepisode": {
+          "href": "https://api.tvmaze.com/episodes/1777135"
+        }
+      }
+    }
+  }
+]
